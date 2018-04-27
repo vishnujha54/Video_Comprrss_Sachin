@@ -153,7 +153,7 @@ public class Util {
         sb.append("APP.VERSION.NAME: ").append(getVersionName(context)).append('\n');
         sb.append("APP.VERSION.CODE: ").append(getVersionCode(context)).append('\n');
         sb.append("CURRENT: ").append(current).append(' ').append(toDateString(current)).append('\n');
-
+//Hi Helllo This More impotayanayt
         return sb.toString();
     }
 
